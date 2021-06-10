@@ -1,6 +1,6 @@
 from ursina.prefabs.platformer_controller_2d import PlatformerController2d
 from ursina.prefabs.grid_editor import GridEditor
-from ursina import *collider, 
+from ursina import *
 
 app = Ursina()
 
